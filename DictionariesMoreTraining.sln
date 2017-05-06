@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Count Real Numbers", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Dict-Ref", "02. Dict-Ref\02. Dict-Ref.csproj", "{A3796408-4A1F-49E6-925C-ADBFE0ED173C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Mixed Phones", "03. Mixed Phones\03. Mixed Phones.csproj", "{B8AA2FD1-185B-40B9-9EF3-49B779D7BC55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Exam Shopping", "04. Exam Shopping\04. Exam Shopping.csproj", "{9F8C3FB7-34CB-4314-A300-42CD2B07DDB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{A3796408-4A1F-49E6-925C-ADBFE0ED173C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3796408-4A1F-49E6-925C-ADBFE0ED173C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3796408-4A1F-49E6-925C-ADBFE0ED173C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8AA2FD1-185B-40B9-9EF3-49B779D7BC55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8AA2FD1-185B-40B9-9EF3-49B779D7BC55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8AA2FD1-185B-40B9-9EF3-49B779D7BC55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8AA2FD1-185B-40B9-9EF3-49B779D7BC55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F8C3FB7-34CB-4314-A300-42CD2B07DDB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F8C3FB7-34CB-4314-A300-42CD2B07DDB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F8C3FB7-34CB-4314-A300-42CD2B07DDB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F8C3FB7-34CB-4314-A300-42CD2B07DDB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
