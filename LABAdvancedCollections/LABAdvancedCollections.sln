@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Average Student Grades", "01. Average Student Grades\01. Average Student Grades.csproj", "{12F82C12-C1CE-4319-9E6F-5F7627BFDD11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Cities by Continent and Country", "02. Cities by Continent and Country\02. Cities by Continent and Country.csproj", "{F260A739-DE6C-492F-8D22-DF4DC39EB785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12F82C12-C1CE-4319-9E6F-5F7627BFDD11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F82C12-C1CE-4319-9E6F-5F7627BFDD11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F82C12-C1CE-4319-9E6F-5F7627BFDD11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F82C12-C1CE-4319-9E6F-5F7627BFDD11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F260A739-DE6C-492F-8D22-DF4DC39EB785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F260A739-DE6C-492F-8D22-DF4DC39EB785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F260A739-DE6C-492F-8D22-DF4DC39EB785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F260A739-DE6C-492F-8D22-DF4DC39EB785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
