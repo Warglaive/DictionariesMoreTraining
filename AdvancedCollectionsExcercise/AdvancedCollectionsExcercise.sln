@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Dict-Ref-Advanced", "02
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Forum Topics", "03. Forum Topics\03. Forum Topics.csproj", "{14498167-2822-40EF-A543-87877E365308}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Social Media Posts", "04. Social Media Posts\04. Social Media Posts.csproj", "{25709357-786E-4026-A082-FE5E1B8DA801}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{14498167-2822-40EF-A543-87877E365308}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14498167-2822-40EF-A543-87877E365308}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14498167-2822-40EF-A543-87877E365308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25709357-786E-4026-A082-FE5E1B8DA801}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25709357-786E-4026-A082-FE5E1B8DA801}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25709357-786E-4026-A082-FE5E1B8DA801}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25709357-786E-4026-A082-FE5E1B8DA801}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
